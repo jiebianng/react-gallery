@@ -1,14 +1,18 @@
 # react-gallery
 one Photos
 
-install dependencies
+``` bash
+#install dependencies
 npm install
 
-serve with hot reload at localhost:8080
+#serve with hot reload at localhost:8080
 npm run serve
 
-build for production with minification
+#build for production with minification
 npm run dist
 
-run clean
+#run clean
 npm run clean
+```
+
+
