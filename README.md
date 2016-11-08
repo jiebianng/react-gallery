@@ -1,20 +1,14 @@
 # react-gallery
 one Photos
 
-# install dependencies
+install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
-npm run dev
+serve with hot reload at localhost:8080
+npm run serve
 
-# build for production with minification
-npm run build
+build for production with minification
+npm run dist
 
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm tes
+run clean
+npm run clean
