@@ -1,6 +1,8 @@
 # react-gallery
 one Photos
 
+[静态展示](https://jiebianng.github.io/react-gallery/dist/)<br />
+
 ``` bash
 #install dependencies
 npm install
